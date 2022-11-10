@@ -1,0 +1,4 @@
+"{\"name\": \"TV\"}"
+"{\"name\": \"Phone\"}"
+"{\"name\": \"ncf\", \"power\": \"fnsje\", \"numberChannels\": \"nfin\", \"size\": \"fjen\"}"
+"{\"name\": \"mamamia\", \"power\": \"21\", \"numberChannels\": \"2\", \"size\": \"200\"}"
